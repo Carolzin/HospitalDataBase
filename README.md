@@ -1,4 +1,6 @@
-# Parte 1 - O Hospital Fundamental 🩺
+# Banco de Dados Hospital 🩺
+
+## Parte 1 - O Hospital Fundamental 💊
 
 Este projeto tem como objetivo desenvolver um novo sistema para um hospital, que busca melhorar sua operação atual, que ainda depende de planilhas e arquivos antigos. O foco é criar uma estrutura de banco de dados que atenda às necessidades do hospital, permitindo uma gestão mais eficiente das informações clínicas. 
 
