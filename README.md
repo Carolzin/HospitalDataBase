@@ -12,7 +12,7 @@ Para o desenvolvimento do diagrama, foram levantadas as entidades e os atributos
 
 ## Parte 2 - Os segredos do hospital 🕵️‍♂️
 
-Na **parte 2** do banco de dados para o projeto, foram realizadas algumas adições importantes ao diagrama inicial, resultando na criação de novas tabelas. Essas alterações visam aprimorar a estrutura do banco de dados e garantir que ele atenda a todos os requisitos do sistema. Utilizando o MySQL Workbench, as novas tabelas foram criadas conforme o diagrama atualizado. Para isso, foram utilizados comandos SQL **CREATE TABLE**, garantindo que todas as relações de chave estrangeira fossem respeitadas.
+Na **parte 2** do banco de dados para o projeto, foram realizadas algumas adições importantes ao diagrama inicial, resultando na criação de novas tabelas. Essas alterações visam aprimorar a estrutura do banco de dados e garantir que ele atenda a todos os requisitos do sistema. Utilizando o MySQL Workbench, as novas tabelas foram criadas conforme o diagrama atualizado. Para isso, foram utilizados comandos SQL **CREATE TABLE**, garantindo que todas as relações de chave estrangeira fossem respeitadas. Para ver as alterações no diagrama, acesse a pasta **Parte 2**. 📁
 
 ![Captura de tela 2024-10-16 191542](https://github.com/user-attachments/assets/9113773a-8623-4da2-96de-1897066dbffd)
 
