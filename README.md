@@ -6,7 +6,7 @@ Este projeto tem como objetivo desenvolver um novo sistema para um hospital, que
 
 Na **Parte 1** deste projeto, foi realizado o levantamento de requisitos e a criação do diagrama. Para acessar o diagrama e os demais arquivos relacionados ao a essa parte, consulte a pasta **Parte 1**. 📁 O Diagrama Entidade-Relacionamento (ER) foi criado para representar a estrutura do banco de dados e pode ser visualizado na imagem abaixo.
 
-![DiagramaHospitalPt1](https://github.com/user-attachments/assets/a10c859e-20e3-445c-b8db-eed2f21e964a)
+![DiagramaHospitalPT2](https://github.com/user-attachments/assets/f2fd737e-a8be-40aa-83f3-325f3a8d6bbd)
 
 Para o desenvolvimento do diagrama, foram levantadas as entidades e os atributos necessários, além do relacionamento entre elas. As entidades identificadas incluem Médicos, Pacientes, Convênios, Consultas e Receitas, cada uma com seus atributos específicos e interações definidas. 📋
 
