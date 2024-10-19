@@ -14,14 +14,10 @@ Para o desenvolvimento do diagrama, foram levantadas as entidades e os atributos
 
 Na **parte 2** do banco de dados para o projeto, foram realizadas algumas adições importantes ao diagrama inicial, resultando na criação de novas tabelas. Essas alterações visam aprimorar a estrutura do banco de dados e garantir que ele atenda a todos os requisitos do sistema. Utilizando o MySQL Workbench, as novas tabelas foram criadas conforme o diagrama atualizado. Para isso, foram utilizados comandos SQL **CREATE TABLE**, garantindo que todas as relações de chave estrangeira fossem respeitadas. Para ver as alterações no diagrama, acesse a pasta **Parte 2**. 📁
 
-![Captura de tela 2024-10-16 191542](https://github.com/user-attachments/assets/9113773a-8623-4da2-96de-1897066dbffd)
-
-
 Após a execução dos comandos para criação das tabelas, foram realizadas consultas para verificar se todas as tabelas foram criadas corretamente e se suas relações estavam funcionando como esperado. O comando **SHOW TABLES** foi utilizado para listar todas as tabelas no banco de dados, confirmando a criação bem-sucedida de todas as novas estruturas.
 
-# Parte 3 - O Prisioneiro dos Dados 👮‍♂️
+![image](https://github.com/user-attachments/assets/f5733a39-ab29-4f4c-aa9b-ca6c6008c5d2)
 
-Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em todas as tabelas, completando assim a estrutura que desenvolvemos anteriormente. Para conferir o script SQL, basta acessar a pasta **Parte 3** 📁. 
 
 ## Tabela Convênio 
 ![Captura de tela 2024-10-16 194403](https://github.com/user-attachments/assets/28505aff-00ad-48a1-85ce-956abc96035b)
@@ -53,7 +49,9 @@ Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em
 ## Tabela Tipo quarto
 ![image](https://github.com/user-attachments/assets/8ca56496-71c7-4830-a3c0-9f990a118500)
 
-# Parte 3 - O prisioneiro dos Dados 
+# Parte 3 - O Prisioneiro dos Dados 👮‍♂️
+
+Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em todas as tabelas, completando assim a estrutura que desenvolvemos anteriormente. Para conferir o script SQL, basta acessar a pasta **Parte 3** 📁. 
 
 ## Tabela Convênio 
 ![image](https://github.com/user-attachments/assets/0aedcfe7-46a7-43fc-a672-e08702893d79)
