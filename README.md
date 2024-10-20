@@ -67,6 +67,8 @@ Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em
 ![image](https://github.com/user-attachments/assets/6f915d68-7c43-4948-bc6d-b218cf2e1950)
 
 ## Tabela Internação
+![image](https://github.com/user-attachments/assets/83a0f7ed-e661-4d84-8da9-83b70a46a8f7)
+
 
 ## Tabela Médico
 ![image](https://github.com/user-attachments/assets/d2358cff-6ed7-4f13-80e8-16d8ccf3ca4e)
@@ -75,6 +77,8 @@ Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em
 ![image](https://github.com/user-attachments/assets/2dc0cde4-0759-44b8-a630-67fac0978402)
 
 ## Tabela Quarto
+![image](https://github.com/user-attachments/assets/336b9993-511c-4b9c-bdf8-7b32f086ca38)
+
 
 ## Tabela Receita
 ![image](https://github.com/user-attachments/assets/2ca37a12-6fec-4ace-8f11-cb08df14e0ad)
