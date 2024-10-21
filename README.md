@@ -87,5 +87,9 @@ Na **parte 3** do banco de dados do projeto, foram inseridos dados fictícios em
 ## Tabela Tipo quarto
 ![image](https://github.com/user-attachments/assets/aac7ec07-175b-49c2-9923-ac220ebf0155)
 
+# Parte 4 - A Ordem do Alterar ✏️
+Na **parte 4** do banco de dados do projeto do hospital, foram realizadas algumas alterações importantes nas tabelas e nos dados existentes. O objetivo é adicionar uma nova coluna e atualizar informações sobre os médicos que atuam no hospital. Um novo campo chamado “em_atividade” foi adicionado à tabela Medico para indicar se cada médico ainda está atuando no hospital. Após a inclusão da nova coluna, foram atualizados os status de pelo menos dois médicos como inativos, enquanto os demais foram mantidos como ativos. Para ver o script SQL, acesse a pasta **Parte 4**  📁.
+![image](https://github.com/user-attachments/assets/529b91ff-31f4-4cab-9624-08fb1bf91991)
+
 
 
