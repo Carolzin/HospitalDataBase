@@ -92,5 +92,6 @@ Na **parte 4** do banco de dados do projeto do hospital, foram realizadas alguma
 
 ![image](https://github.com/user-attachments/assets/529b91ff-31f4-4cab-9624-08fb1bf91991)
 
+# Parte 5 - A Relíquia dos Dados 🏺
 
-
+Na **Parte 5**, finalizamos a última fase desta atividade, que consiste na execução de uma série de consultas na base de dados. Para visualizar o script SQL das consultas e outros arquivos relacionados, acesse a pasta **Parte 5** 📁.
